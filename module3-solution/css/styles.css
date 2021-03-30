@@ -35,3 +35,11 @@ body {
   clear: both;
   margin-top: -30px;
 }
+.AlignMid {
+  text-align: center;
+}
+.bigDiv {
+  background-color: #B388EB;
+  color: white;
+  padding: 10px;
+}
